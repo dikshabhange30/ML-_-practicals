@@ -93,7 +93,17 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 
 
-
+# Examiner asks	Your answer
+# What is Machine Learning?	Machine Learning allows computers to learn from data and make predictions.
+# What is Regression?	Regression is used to predict continuous numerical values.
+# What is preprocessing?	Cleaning and preparing data before applying a model.
+# What are outliers?	Values that are very different from other values.
+# What is correlation?	It shows the relationship between two variables.
+# What is Linear Regression?	It predicts values using a linear relationship.
+# What is Random Forest?	It uses multiple decision trees to make predictions.
+# What is R² score?	It measures how well the model explains the data.
+# What is RMSE?	It measures the average prediction error, giving more weight to larger errors.
+# Why split data?	To train the model and test its performance on unseen data.
 
 
 
